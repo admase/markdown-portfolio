@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Web dev
+* Programming
+  * Info Sec
+  * Design
+- Ethical Hacking
+- Coding different languages
+- Vulnerability scan
+- Pen test
