@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Portfolio <h2>
 
 <br>
 
-{% include 02-image.md %}
+Image of Yaktocat![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
 
 <br>
 
